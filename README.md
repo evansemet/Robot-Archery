@@ -1,5 +1,8 @@
 # Robot Archery
 Jane Street's December 2021 Puzzle
+Puzzle can be found at: https://www.janestreet.com/puzzles/robot-archery-index/
+
+Jane Street's solution explanation and leaderboard for accepted submissions can be found at: https://www.janestreet.com/puzzles/robot-archery-solution/
 
 After a grueling year filled with a wide variety of robot sporting events, we have arrived at the final event of the year: Robot Archery. Four robots have qualified for this year’s finals, and have been seeded in the following order:
 
